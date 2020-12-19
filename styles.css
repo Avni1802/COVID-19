@@ -1,0 +1,50 @@
+.title {
+  color: lightblue;
+  border: 3px double rgb(27, 255, 251);
+  font-size: 50px;
+  padding: 5px;
+  height: 60px;
+  margin: 20px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.global {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+
+  border: 5px double rgb(16, 234, 241);
+  font-size: 16px;
+  /* height: 60px; */
+  margin-top: 100px;
+  /* position: absolute; */
+  /* transform: translateX(50%); */
+  width: 370px;
+  /* top: 40%; */
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input {
+  margin: 20px;
+  height: 35px;
+  width: 300px;
+  border-radius: 7px;
+}
+
+#country {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+
+  border: 5px double rgb(16, 234, 241);
+  font-size: 16px;
+  /* height: 60px; */
+  /* margin-top: 100px; */
+  /* position: absolute; */
+  /* transform: translateX(50%); */
+  /* display: none; */
+  width: 370px;
+  /* top: 40%; */
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
